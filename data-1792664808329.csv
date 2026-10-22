@@ -1,0 +1,11 @@
+"depot_no","track_no","purpose","track_length","is_free","is_electrified"
+1,2,"Стоянка",110.00,True,True
+1,3,"Ремонт",85.00,False,False
+1,4,"Мойка",75.00,True,True
+2,1,"Стоянка",130.00,False,True
+2,2,"Ремонт",95.50,True,False
+2,3,"Стоянка",125.00,False,True
+3,1,"Стоянка",115.00,True,True
+3,2,"Ремонт",90.00,True,False
+3,3,"Стоянка",140.00,False,True
+3,4,"Стоянка",100.50,True,True
